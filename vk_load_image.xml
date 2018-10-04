@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Gallery>
+  <image>
+    <url>/Content/images/Slider/SL-1.jpg</url>
+    <title>Celebration</title>
+    <description>Image 1</description>
+    <altdescription>img-1</altdescription>
+  </image>
+  <image>
+    <url>/Content/images/Slider/Blub-slider1920x1280-Dark.jpeg</url>
+    <title>Celebration 2</title>
+    <description>Image 2</description>
+    <altdescription>img-2</altdescription>
+  </image>
+  <image>
+    <url>/Content/images/Slider/Solar-slider1920x1280-Dark.jpeg</url>
+    <title>Celebration 3</title>
+    <description>Image 3</description>
+    <altdescription>img-3</altdescription>
+  </image>
+  <image>
+    <url>/Content/images/Slider/SL-2.jpg</url>
+    <title>Celebration 4</title>
+    <description>Image 4</description>
+    <altdescription>img-4</altdescription>
+  </image>
+</Gallery>
